@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-labelledby="title desc">
+<title id="title">DranzerD Systems Lab — Sarana Gnanojval</title><desc id="desc">Personal engineering portfolio for intelligent software, reliable systems and measurable results.</desc>
+<defs>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#314039" stroke-width=".65" opacity=".45"/></pattern>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1412"/><stop offset="1" stop-color="#101b18"/></linearGradient>
+ <linearGradient id="ring" x2="1" y2="1"><stop stop-color="#d7fc75"/><stop offset="1" stop-color="#4cc9a4"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="898" height="308" rx="18" fill="url(#bg)" stroke="#46594b"/>
+<rect x="2" y="2" width="896" height="306" rx="17" fill="url(#grid)"/>
+<g font-family="monospace" fill="#92a59a" font-size="12" letter-spacing="1.8"><text x="34" y="37">DRANZERD / PERSONAL ENGINEERING LAB</text><text x="866" y="37" text-anchor="end">BLR · IN</text></g>
+<path d="M34 54H866" stroke="#405047"/>
+<g transform="translate(711 162)">
+ <circle r="92" fill="#101c17" stroke="#3b5546" stroke-dasharray="2 7"/>
+ <circle r="76" fill="none" stroke="#344b3d"/>
+ <circle r="65" fill="none" stroke="#263c30" stroke-width="12"/>
+ <circle r="65" fill="none" stroke="url(#ring)" stroke-width="2.5" stroke-dasharray="112 296" transform="rotate(-75)"><animateTransform attributeName="transform" type="rotate" from="-75" to="285" dur="24s" repeatCount="indefinite"/></circle>
+ <path d="M0-76V-91M76 0H91M0 76V91M-76 0H-91" stroke="#a3bc8c"/>
+ <path d="M-33-35H-4L35 0-4 35H-33Z" fill="none" stroke="#d7fc75" stroke-width="5" stroke-linejoin="round"/><path d="M-16-19H-7L14 0-7 19H-16Z" fill="#d7fc75"/>
+ <circle cx="0" cy="-76" r="3" fill="#d7fc75"/><circle cx="76" cy="0" r="3" fill="#d7fc75"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="34" y="115" fill="#f2f7ee" font-size="43" font-weight="700">Sarana Gnanojval</text><text x="36" y="157" fill="#d7fc75" font-size="26" font-weight="700" letter-spacing="3">SYSTEMS LAB</text><text x="36" y="193" fill="#b9cbc1" font-size="17">Intelligent software. Reliable systems.</text><text x="36" y="217" fill="#b9cbc1" font-size="17">Measured, not assumed.</text></g>
+<path d="M34 251H866" stroke="#405047"/>
+<g font-family="monospace" font-size="12" letter-spacing=".5"><circle cx="40" cy="279" r="4" fill="#d7fc75"><animate attributeName="opacity" values="1;.4;1" dur="3s" repeatCount="indefinite"/></circle><text x="54" y="283" fill="#d7fc75">OPEN TO ENGINEERING ROLES</text><text x="866" y="283" fill="#a3b4a8" text-anchor="end">PESU / CSE AI&amp;ML / 2027</text></g>
+</svg>
